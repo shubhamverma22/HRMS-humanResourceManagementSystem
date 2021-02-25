@@ -1,0 +1,5 @@
+#what's the useCase of this project??
+--> Dom manipulation. Suppose there mighty be an 1000 employes in a company So there is good to use React.
+So always first identify the usescase of application before building it. So we can decide which library or framework 
+we have to work.
+

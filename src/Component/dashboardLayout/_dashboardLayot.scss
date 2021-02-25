@@ -1,0 +1,18 @@
+.dashboard-layout {
+	display: flex;
+	height: 100vh;
+	padding: 12px;
+	background-color: $hr_background;
+	.side-nav-bar {
+		flex-basis: 20%;
+		max-width: 250px;
+		min-width: 200px;
+		background-color: $hr_background;
+		border-radius: 25px;
+	}
+	.main-container {
+		flex-basis: 80%;
+		background-color: $hr_white;
+		border-radius: 25px;
+	}
+}
