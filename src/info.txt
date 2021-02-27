@@ -3,3 +3,11 @@
 So always first identify the usescase of application before building it. So we can decide which library or framework 
 we have to work.
 
+Note:- Every Organisation follows some design System
+
+# What is Material Design System?
+--> When anything is top of one another. Nothing is in the same plane. eg- Cards on websites has an shadow it means it a matrial design.
+material.io
+
+# What is Flat Design System?
+--> When everything is on on the same plane or flat plane. there is no shadow of component.

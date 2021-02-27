@@ -1,2 +1,8 @@
 @import "./theme";
+
+// Global
+@import "./common";
+@import "./typography";
+//Component
 @import "../Component/dashboardLayout/dashboardLayot.scss";
+

@@ -15,4 +15,22 @@
 		background-color: $hr_white;
 		border-radius: 25px;
 	}
+	.logo-container {
+		text-align: center;
+		color: $hr_accent;
+	}
+	.nav-container {
+		padding-left: 16px;
+		padding-top: 24px;
+		.nav-item {
+			display: flex;
+			align-items: center;
+			color: $hr_white;
+			padding: 8px;
+			.item-name {
+				margin-left: 16px;
+				font-weight: 800;
+			}
+		}
+	}
 }
