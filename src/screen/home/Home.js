@@ -1,9 +1,10 @@
 import React from "react";
+import Header from "../../Component/header/Header";
 
 function Home() {
 	return (
-		<div>
-			<h1>This is Home</h1>
+		<div className="home">
+			<Header pageHeader="Dashboard" />
 		</div>
 	);
 }
